@@ -135,6 +135,21 @@ p {
     font-size: 1.1rem;
 }
 
+/* Certifications Section */
+.certification-item {
+    margin-bottom: 1.5rem;
+}
+
+.certification-item:last-child {
+    margin-bottom: 0;
+}
+
+.certification-name {
+    font-weight: 600;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
 .degree {
     color: #aaa;
     font-style: italic;
@@ -225,6 +240,13 @@ p {
     font-weight: 700;
     color: #fff;
     margin-bottom: 0.5rem;
+}
+
+.project-status {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #ab3493;
+    vertical-align: middle;
 }
 
 .project-item {
